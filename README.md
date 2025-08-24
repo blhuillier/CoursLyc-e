@@ -44,12 +44,12 @@ Fiches récapitulatives des programmes de mathématiques, physique et chimie au 
 
 ## Plan détaillé par niveau
 
-### Seconde
+### [Seconde](./Seconde/README.md)
 - Maths: (aucun fichier PDF pour l'instant) — voir `./Maths/Seconde/`
 - Physique: (aucun fichier PDF pour l'instant) — voir `./Physique/Seconde/`
 - Chimie: (aucun fichier PDF pour l'instant) — voir `./Chimie/Seconde/`
 
-### Première
+### [Première](./Premiere/README.md)
 - Maths
   - [dérivation](./Maths/Premiere/derivation.pdf)
   - [exponentielle](./Maths/Premiere/exponentielle.pdf)
