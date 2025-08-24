@@ -13,8 +13,8 @@ Fiches récapitulatives des programmes de mathématiques, physique et chimie au 
 
 ## Plan détaillé par matière
 
-### Maths
-- Première
+### [Maths](./Maths/README.md)j
+- [Première](./Maths/Premiere/Readme.md)
   - [dérivation](./Maths/Premiere/derivation.pdf)
   - [exponentielle](./Maths/Premiere/exponentielle.pdf)
   - [probabilités](./Maths/Premiere/probas.pdf)
@@ -24,8 +24,8 @@ Fiches récapitulatives des programmes de mathématiques, physique et chimie au 
   - [suites](./Maths/Premiere/suites.pdf)
   - [trigonométrie](./Maths/Premiere/trigo.pdf)
 
-### Physique
-- Première
+### [Physique](./Physique/README.md)
+- [Première](./Physique/Premiere/README.md)
   - [Énergie mécanique et travail](./Physique/Premiere/Energie_Mecanique_Travail.pdf)
   - [Interactions, gravitation et électrostatique](./Physique/Premiere/Interactions_Gravitation_Electrostatique.pdf)
   - [Vecteurs, mouvement et lois de Newton](./Physique/Premiere/Vecteurs_mouvement_Newton.pdf)
@@ -33,8 +33,8 @@ Fiches récapitulatives des programmes de mathématiques, physique et chimie au 
   - [Lumière](./Physique/Premiere/Lumiere.pdf)
   - [Pression](./Physique/Premiere/Pression.pdf)
 
-### Chimie
-- Première
+### [Chimie](./Chimie/README.md)
+- [Première](./Chimie/Premiere/README.md)
   - [Avancement](./Chimie/Premiere/avancement.pdf)
   - [Titrage et synthèse](./Chimie/Premiere/chem_1_titrage_synthese.pdf)
   - [Mole](./Chimie/Premiere/mole.pdf)
@@ -50,7 +50,7 @@ Fiches récapitulatives des programmes de mathématiques, physique et chimie au 
 - Chimie: (aucun fichier PDF pour l'instant) — voir `./Chimie/Seconde/`
 
 ### [Première](./Premiere/README.md)
-- Maths
+- [Maths](./Maths/Premiere/README.md)
   - [dérivation](./Maths/Premiere/derivation.pdf)
   - [exponentielle](./Maths/Premiere/exponentielle.pdf)
   - [probabilités](./Maths/Premiere/probas.pdf)
