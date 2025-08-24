@@ -1,5 +1,7 @@
 # Seconde
 
+Auteur : Benjamin L'Huillier
+
 Ce dossier regroupe les ressources pour la classe de Seconde :
 ## Plan du dossier
 
@@ -8,4 +10,3 @@ Ce dossier regroupe les ressources pour la classe de Seconde :
 - [Chimie](./Chimie/)
 
 
-Ajoutez vos cours et fiches dans les sous-dossiers correspondants.

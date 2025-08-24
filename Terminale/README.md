@@ -1,5 +1,7 @@
 # Terminale
 
+Auteur : Benjamin L'Huillier
+
 Ce dossier regroupe les ressources pour la classe de Terminale :
 
 ## Plan du dossier
@@ -7,6 +9,3 @@ Ce dossier regroupe les ressources pour la classe de Terminale :
 - [Mathématiques](./Maths/)
 - [Physique](./Physique/)
 - [Chimie](./Chimie/)
-
-
-Ajoutez vos cours et fiches dans les sous-dossiers correspondants.

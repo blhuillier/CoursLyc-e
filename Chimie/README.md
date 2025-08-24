@@ -1,5 +1,7 @@
 # Chimie
 
+Auteur : Benjamin L'Huillier
+
 Ce dossier contient les fiches de chimie pour le lycée.
 
 

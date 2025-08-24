@@ -1,5 +1,7 @@
 # Physique
 
+Auteur : Benjamin L'Huillier
+
 Ce dossier contient les fiches de physique pour le lycée.
 
 

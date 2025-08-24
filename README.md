@@ -1,9 +1,12 @@
-
 # CoursLycée
+
+Auteur : Benjamin L'Huillier
+
+Remarque : ces documents sont des notes en cours — le travail n'est pas finalisé.
 
 Fiches récapitulatives des programmes de mathématiques, physique et chimie au lycée.
 
-## 📚 Organisation par matière
+## Organisation par matière
 
 - [Maths](./Maths/)
 - [Physique](./Physique/)

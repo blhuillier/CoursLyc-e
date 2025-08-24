@@ -1,5 +1,7 @@
 # Mathématiques
 
+Auteur : Benjamin L'Huillier
+
 Ce dossier contient les fiches de mathématiques pour le lycée.
 
 
