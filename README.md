@@ -79,4 +79,7 @@ Fiches récapitulatives des programmes de mathématiques, physique et chimie au 
 
 ---
 
-*Plan généré automatiquement à partir des fichiers du dépôt.*
+
+## Liens utiles
+
+- [Chaîne de David Latouche](https://www.youtube.com/@DavidLatouche)
