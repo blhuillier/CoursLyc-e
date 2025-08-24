@@ -5,9 +5,7 @@ Ce dossier contient les fiches de chimie pour le lycée.
 
 ## Plan du dossier
 
-- [Seconde](./Seconde/)
-- [Première](./Premiere/)
-- [Terminale](./Terminale/)
-
-
-Ajoutez vos cours, exercices et fiches dans les sous-dossiers correspondants.
+- [Avancement](./Premiere/avancement.pdf)
+- [Titrage et synthèse](./Premiere/chem_1_titrage_synthese.pdf)
+- [Mole](./Premiere/mole.pdf)
+- [Redox](./Premiere/redox.pdf)
